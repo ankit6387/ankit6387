@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ankit6387
-- 👀 I’m interested in Android Development
+- 👋 Hi, I’m Ankit Kumar
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
